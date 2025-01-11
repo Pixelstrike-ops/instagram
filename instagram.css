@@ -1,0 +1,107 @@
+body{
+    background-image:linear-gradient(to bottom, #FB586C, #754AC9);
+    align-items: center;
+    display: inline-block;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+
+.insta{
+    width: 300px;
+    margin: 40px;
+    border: 0.5px solid white;
+    background-color: white;
+    padding: 40px;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;  
+    align-items: center;
+    height: 15px; 
+  font-size: 15px; 
+}
+
+
+.stress{
+    border: 1px solid;
+    height: 0.5px;
+    text-align: center;
+}
+
+
+button{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #0000fa;
+    border-radius: 5%;
+    cursor: pointer;
+    align-items: center;
+}
+
+button:hover{
+    background-color: blue;
+     align-items: center;
+}
+
+
+a{
+    cursor: pointer;
+    color: blue;
+    align-items: center;
+    display: inline-block;
+    margin-bottom: 1px;
+}
+a:hover{
+    color: blue;
+    align-items: center;
+}
+
+.sets{
+    width: 380px;
+    height: 20px;
+    border: 1px solid black;
+    background-color: white;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.b{
+    width: 200px;
+    height: 100px;
+    padding-top: 0px;
+
+}
+
+::placeholder{
+    font-size: 16px;
+}
+.g{
+    width: 15px;
+    height: 15px;
+
+}
+.l{
+    width: 15px;
+    height: 15px;
+}
+.tiv{
+    text-align: center;
+    margin-left: 500px;
+    margin-bottom: 20px;
+}
